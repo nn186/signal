@@ -358,7 +358,7 @@
             
             // Win button action
             winButton.addEventListener('click', () => {
-                window.location.href = 'https://1wbfqv.life/v3/2158/1win-mines?p=12bz';
+                window.location.href = 'https://1wmndv.life/v3/2158/1win-mines?p=xcof';
             });
             
             // Initialize the board on page load
